@@ -1,0 +1,17 @@
+{
+  "name": "imap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "commander": "^2.8.1",
+    "imap": "^0.8.14",
+    "lodash": "^3.9.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
