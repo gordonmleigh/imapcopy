@@ -10,6 +10,7 @@
     "commander": "^2.8.1",
     "imap": "^0.8.14",
     "lodash": "^3.9.3",
+    "read": "^1.0.7",
     "winston": "^1.0.1"
   },
   "devDependencies": {},
